@@ -1,0 +1,20 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  input {
+    padding: 8px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 8px;
+    margin-left: 10px;
+  }
+  
+  li {
+    list-style-type: none;
+    margin-top: 10px;
+  }
